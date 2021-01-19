@@ -17,7 +17,7 @@ a:active {
 
 
 body > header, body > footer {
-    background-color: #555555;
+    background-color: #1a72f5;
     height: 50px;
     padding: 20px;
     color: white;
@@ -41,6 +41,10 @@ aside {
     background-color: #DFDFDF;
     border-radius: 5px;
     padding: 20px;
+}
+
+aside h3 {
+  font-style: italic;
 }
 
 .clearfloat {
